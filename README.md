@@ -260,6 +260,6 @@ Developed by **Bhavana** as part of the Software Development Project.
 
 ## 12. License
 
-This project is developed for educational purposes under the SDP-11 academic project guidelines.
+This project is developed for educational purposes.
 
 > Legal information provided by MYHAQ AI is for awareness purposes only and does not constitute professional legal advice.
